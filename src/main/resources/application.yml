@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: "jdbc:mysql://localhost/image"
+    url: "jdbc:mysql://54.180.29.17/image"
     username: "root"
     password: "201920818"
     driver-class-name: com.mysql.cj.jdbc.Driver
